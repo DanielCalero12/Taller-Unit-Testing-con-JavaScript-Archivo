@@ -1,3 +1,3 @@
-exports.taxBase = function () {
-return 10
+exports.taxBase = function() {
+    return 10
 }
